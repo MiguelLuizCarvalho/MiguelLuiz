@@ -1,6 +1,6 @@
 # Miguel Carvalho 👋
 
-Hi! I'm Miguel Luiz, a 14-year-old programming student from São Paulo, Brazil 🇧🇷
+Hi! I'm Miguel Luiz Carvalho, a 14-year-old programming student from São Paulo, Brazil 🇧🇷
 
 I'm currently focused on learning Java and building console-based systems to improve my logic and object-oriented programming **(OOP)** skills.
 
@@ -27,9 +27,9 @@ I'm currently focused on learning Java and building console-based systems to imp
 ## 🏆 My goals
 
 - Studying high school abroad through **UWC.**
-- To be successful in life and live outside of Brazil.
+- To build a succesful internation career and live abroad.
 - To continuously improve my skills.
-- Learn multiple languages.
+- **Become fluent in multiple languages.**
 
 ## 🗣️ Languages
 
