@@ -35,7 +35,7 @@ I'm currently focused on learning Java and building console-based systems to imp
 
 - 🇧🇷 **Portuguese:** Native 👑
 - 🇺🇸 **English:** B2/C1 ✅
-- 🇪🇸 **Spanish:** B1 (Studying 📖)
+- 🇪🇸 **Spanish:** A2 (Studying 📖)
 - 🇫🇷 **French:** A1 (Studying a little every day. 📖)
 
 ---
