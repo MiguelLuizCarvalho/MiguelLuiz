@@ -38,6 +38,7 @@ I'm currently focused on learning Java and building console-based systems to imp
 - 🇪🇸 **Spanish:** A2 (Studying 📖)
 - 🇫🇷 **French:** A1 (Studying a little every day. 📖)
 
+
 ## 🌎 My Community
 
 I enjoy connecting with other developers and building a small programming community.
