@@ -6,7 +6,8 @@ I'm currently focused on learning Java and building console-based systems to imp
 
 ## 🚀 About Me
 
-- 💻 Main language: Java  
+- 💻 Main language: Java
+- 💻 I trying to be a specialist: Python
 - 🧠 Strong interest in logic and clean code  
 - 📚 Constantly building projects to improve  
 - 📐 I also enjoy mathematics  
@@ -14,15 +15,14 @@ I'm currently focused on learning Java and building console-based systems to imp
 
 ## 🛠 What I'm Working On
 
-- Account & follower system (Java)
-- Console-based projects focused on OOP
-- Improving project structure and organization
+- Automation on Python
 
 ## 📈 Currently Learning
 
-- Advanced Java concepts
 - Better project architecture
 - Version control with Git & GitHub
+- Cybersecurity Studies
+- Automation with Python
 
 ## 🏆 My goals
 
@@ -34,9 +34,13 @@ I'm currently focused on learning Java and building console-based systems to imp
 ## 🗣️ Languages
 
 - 🇧🇷 **Portuguese:** Native 👑
-- 🇺🇸 **English:** B2/C1 ✅
+- 🇺🇸 **English:** B1/B2 ✅
 - 🇪🇸 **Spanish:** A2 (Studying 📖)
-- 🇫🇷 **French:** A1 (Studying a little every day. 📖)
+
+## 📚 Courses
+
+- Google Cybersecurity Professional Certificate
+- FIAP (Cybersecurity & Python) (Free & Online on FIAP ON)
 
 
 ## 🌎 My Community
