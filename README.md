@@ -6,21 +6,20 @@ I'm currently focused on learning Java and building console-based systems to imp
 
 ## 🚀 About Me
 
-- 💻 Main language: Java
-- 💻 I trying to be a specialist: Python
+- 💻 Main language: Python
+- 💻 I've already created projects;Java
 - 🧠 Strong interest in logic and clean code  
-- 📚 Constantly building projects to improve  
+- 📚 Constantly learning 
 - 📐 I also enjoy mathematics  
 - 🌎 Long-term goal: work remotely and explore the world  
 
 ## 🛠 What I'm Working On
 
 - Automation on Python
+- Cybersecurity
 
 ## 📈 Currently Learning
 
-- Better project architecture
-- Version control with Git & GitHub
 - Cybersecurity Studies
 - Automation with Python
 
@@ -35,13 +34,13 @@ I'm currently focused on learning Java and building console-based systems to imp
 
 - 🇧🇷 **Portuguese:** Native 👑
 - 🇺🇸 **English:** B1/B2 ✅
-- 🇪🇸 **Spanish:** A2 (Studying 📖)
+- 🇩🇪 **German** A2 (I'm studying because my father is fluent in German, and it's a very widely used language in Europe, and I love the German language, I want to become fluent in it!)
+- 🇷🇺 **Russian** A1 (I'm learning Russian because it's widely used in forums, documentation, logs, and other important things, and I love the Russian language; I also intend to become fluent in it!)
+- 🇪🇸 **Spanish:** A2 (I'm Stop with Spanish!!)
 
 ## 📚 Courses
 
 - Google Cybersecurity Professional Certificate
-- FIAP (Cybersecurity & Python) (Free & Online on FIAP ON)
-
 
 ## 🌎 My Community
 
