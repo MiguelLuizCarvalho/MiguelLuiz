@@ -7,8 +7,8 @@ I'm currently focused on learning Java and building console-based systems to imp
 ## 🚀 About Me
 
 - 💻 Main language: Python
-- 💻 I've already created projects;Java
-- 🧠 Strong interest in logic and clean code  
+- 💻 I've already created projects: Java
+- 🧠 Strong interest in logic, maths, astronomy, Cybersecurity, Countries and cultures!
 - 📚 Constantly learning 
 - 📐 I also enjoy mathematics  
 - 🌎 Long-term goal: work remotely and explore the world  
