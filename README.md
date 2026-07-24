@@ -22,6 +22,7 @@ I am currently focused on software development with C and Python, while building
 - 🛡️ Google Cybersecurity Professional Certificate (Coursera)
 - 🇬🇧 Refining my English
 - 🇩🇪 German (A1)
+- 🇳🇱 Dutch (A1-A2) Ik spreek niet zo goed Nderlands, maar ik ben het aan het leren.
 
 ## 🏆 My Goals
 
@@ -34,6 +35,7 @@ I am currently focused on software development with C and Python, while building
 - 🇧🇷 **Portuguese:** Native 👑
 - 🇺🇸 **English:** Intermediate/Advanced (B1/B2) ✅
 - 🇩🇪 **German:** Beginner (A1) 🇩🇪 *Learning because I love the language, European culture, and plan to move abroad.*
+- 🇳🇱 **Dutch** Begginer (A1-A2)
 
 ---
 Always learning. Always improving. 🚀
