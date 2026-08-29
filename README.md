@@ -2,40 +2,38 @@
 
 Hi! I'm Miguel Luiz Carvalho, a 14-year-old coding and cybersecurity student from São Paulo, Brazil 🇧🇷
 
-I am currently focused on software development with C and Python, while building my foundations in Cybersecurity.
+I am currently focused on software development with Python, while building my foundations in Cybersecurity.
 
 ## 🚀 About Me
 
-- 💻 **Current Focus:** C and Python
-- 🛠️ **Past Projects:** Java
+- 💻 **Current Focus:** Python/Cyber
+- 🛠️ **Past Projects:** Java, Flask, SQLAlchemy, PostgreSQL, HTML, CSS, JS, etc.
 - 🧠 **Interests:** Cybersecurity, Astronomy, Countries, and Cultures
-- 📊 **Future Focus:** Learning Data Science with Python (Pandas) to apply in CyberSec analysis
+- 📊 **Future Focus:** Learning IP/TCP, Ports, Python, Pentesting, OWASP, etc.
 - 🌎 **Long-term Goal:** Build an international career and live abroad
 
 ## 🛠 What I'm Working On
 
-- **Low-Level Programming:** Studying C syntax and logic
 - **Scripting & Automation:** Developing scripts with Python
 
 ## 📈 Currently Learning
 
 - 🛡️ Google Cybersecurity Professional Certificate (Coursera)
-- 🇬🇧 Refining my English
-- 🇩🇪 German (A1)
-- 🇳🇱 Dutch (A1-A2) Ik spreek niet zo goed Nderlands, maar ik ben het aan het leren.
+- 🎓 CS50's Introduction to Cybersecurity (Harvard University / edX)
 
 ## 🏆 My Goals
 
-- Studying high school abroad through **UWC (United World Colleges)**.
+- **High School Abroad?** Considering **UWC (United World Colleges)** in the future (still evaluating if it fits my long-term path).
 - To build a successful international career.
 - **Become fluent in multiple languages.**
 
 ## 🗣️ Languages
 
 - 🇧🇷 **Portuguese:** Native 👑
-- 🇺🇸 **English:** Intermediate/Advanced (B1/B2) ✅
-- 🇩🇪 **German:** Beginner (A1) 🇩🇪 *Learning because I love the language, European culture, and plan to move abroad.*
-- 🇳🇱 **Dutch** Begginer (A1-A2)
+- 🇺🇸 **English:** Intermediate/Advanced (B1/B2) (Refining) ✅
+- 🇫🇷 **French:** Beginner (Learning)
+- 🇩🇪 **German:** Beginner (A1) 🇩🇪 *Learning because I love the language, European culture, and plan to move abroad.* **(STOPPED Until I get A2-B1 In Dutch).**
+- 🇳🇱 **Dutch** Beginner (A1-A2) Ik spreek niet zo goed Nederlands, maar ik ben het aan het leren.
 
 ---
 Always learning. Always improving. 🚀
